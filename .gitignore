@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#Virtual environments
+roadsense-env/
+.venv/
+
+#Python cache files
+__pycache__/
+*.pyc
